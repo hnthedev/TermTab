@@ -23,8 +23,6 @@ function createFade(name, time_wait, speed) {
       }
     },50)
   },time_wait)
-    
-  
 }
 
 const hear = document.getElementById("CMD");
