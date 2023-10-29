@@ -106,3 +106,12 @@ it based on some website that i found on internet so idk the source :< ctto anyw
 ![First one](image.png)
 
 pretty cool right :D
+
+# Installation
+
+1. Open your web browser and press the 3 dots on the top right of the screen
+2. Hit that "Extensions" menu
+3. Hit the Manage Extensions
+4. Turn on the developer mode (which located in the top right of the window)
+5. Click load unpacked then choose the folder that u downloaded and extracted which is this code
+6. DONE now u can use it
