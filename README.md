@@ -105,4 +105,4 @@ it based on some website that i found on internet so idk the source :< ctto anyw
 ## Screenshots
 ![First one](image.png)
 
----
+pretty cool right :D
