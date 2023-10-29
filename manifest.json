@@ -1,0 +1,9 @@
+{
+  "name": "HN the changer",
+  "version": "1.0",
+  "description": "Changes the new tab page",
+  "manifest_version": 3,
+  "chrome_url_overrides" : {
+	"newtab": "newtab.html"
+  }
+}
