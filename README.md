@@ -3,7 +3,7 @@
 
 Another random things that `HN the Dev` made for fun. I really hope you enjoy this... none master piece... .Ye ty <3
 
-### Some randoms things that i use
+## Some randoms things that i use
 
 - The `manifest.json` that i borrow from some random website idk :D it should look something like this:
 ```json
@@ -73,7 +73,7 @@ function checkTime(i) {
 startTime();
 ```
 - `style.css` file is the the file that i self-created. I have to make a lot of changes based on this and also the Colors that i take from the `COLOR.txt` file:
-```
+```css
 {
   "name": "Apple Classic",
   "black": "#000000",
@@ -100,7 +100,9 @@ startTime();
 ```
 it based on some website that i found on internet so idk the source :< ctto anyways :D.
 - now about this `README.md` file that u reading right now... i make it from [Make a README](https://www.makeareadme.com/) website. It basically tells me anything :D.
-### Screenshots
+
+> Everything that i create is from myself, searching and combine all together. U can make change to this extensions as well :D
+## Screenshots
 
 
 ---
