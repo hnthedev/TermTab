@@ -1,5 +1,5 @@
 # TermTab
- Chromium Extension for customizing new tab page.
+ Chromium Extension for customizing MY OWN new tab page.
 
 Another random things that `HN the Dev` made for fun. I really hope you enjoy this... none master piece... .Ye ty <3
 
